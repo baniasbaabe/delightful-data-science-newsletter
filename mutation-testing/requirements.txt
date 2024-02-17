@@ -1,0 +1,15 @@
+click==8.1.7
+coverage==7.4.1
+exceptiongroup==1.2.0
+glob2==0.7
+iniconfig==2.0.0
+junit-xml==1.9
+mutmut==2.4.4
+packaging==23.2
+parso==0.8.3
+pluggy==1.4.0
+pony==0.7.17
+pytest==8.0.0
+six==1.16.0
+toml==0.10.2
+tomli==2.0.1
